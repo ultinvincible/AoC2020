@@ -1,0 +1,13 @@
+C:\Code\C#\AoC 2020\AoC3\bin\Debug\netcoreapp3.1\AoC3.exe
+C:\Code\C#\AoC 2020\AoC3\bin\Debug\netcoreapp3.1\AoC3.deps.json
+C:\Code\C#\AoC 2020\AoC3\bin\Debug\netcoreapp3.1\AoC3.runtimeconfig.json
+C:\Code\C#\AoC 2020\AoC3\bin\Debug\netcoreapp3.1\AoC3.runtimeconfig.dev.json
+C:\Code\C#\AoC 2020\AoC3\bin\Debug\netcoreapp3.1\AoC3.dll
+C:\Code\C#\AoC 2020\AoC3\bin\Debug\netcoreapp3.1\AoC3.pdb
+C:\Code\C#\AoC 2020\AoC3\obj\Debug\netcoreapp3.1\AoC3.csprojAssemblyReference.cache
+C:\Code\C#\AoC 2020\AoC3\obj\Debug\netcoreapp3.1\AoC3.AssemblyInfoInputs.cache
+C:\Code\C#\AoC 2020\AoC3\obj\Debug\netcoreapp3.1\AoC3.AssemblyInfo.cs
+C:\Code\C#\AoC 2020\AoC3\obj\Debug\netcoreapp3.1\AoC3.dll
+C:\Code\C#\AoC 2020\AoC3\obj\Debug\netcoreapp3.1\AoC3.pdb
+C:\Code\C#\AoC 2020\AoC3\obj\Debug\netcoreapp3.1\AoC3.csproj.CoreCompileInputs.cache
+C:\Code\C#\AoC 2020\AoC3\obj\Debug\netcoreapp3.1\AoC3.genruntimeconfig.cache

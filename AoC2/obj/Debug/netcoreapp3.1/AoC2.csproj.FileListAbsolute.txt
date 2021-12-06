@@ -1,0 +1,13 @@
+C:\Code\C#\AoC 2020\AoC2\bin\Debug\netcoreapp3.1\AoC2.exe
+C:\Code\C#\AoC 2020\AoC2\bin\Debug\netcoreapp3.1\AoC2.deps.json
+C:\Code\C#\AoC 2020\AoC2\bin\Debug\netcoreapp3.1\AoC2.runtimeconfig.json
+C:\Code\C#\AoC 2020\AoC2\bin\Debug\netcoreapp3.1\AoC2.runtimeconfig.dev.json
+C:\Code\C#\AoC 2020\AoC2\bin\Debug\netcoreapp3.1\AoC2.dll
+C:\Code\C#\AoC 2020\AoC2\bin\Debug\netcoreapp3.1\AoC2.pdb
+C:\Code\C#\AoC 2020\AoC2\obj\Debug\netcoreapp3.1\AoC2.csprojAssemblyReference.cache
+C:\Code\C#\AoC 2020\AoC2\obj\Debug\netcoreapp3.1\AoC2.AssemblyInfoInputs.cache
+C:\Code\C#\AoC 2020\AoC2\obj\Debug\netcoreapp3.1\AoC2.AssemblyInfo.cs
+C:\Code\C#\AoC 2020\AoC2\obj\Debug\netcoreapp3.1\AoC2.dll
+C:\Code\C#\AoC 2020\AoC2\obj\Debug\netcoreapp3.1\AoC2.pdb
+C:\Code\C#\AoC 2020\AoC2\obj\Debug\netcoreapp3.1\AoC2.csproj.CoreCompileInputs.cache
+C:\Code\C#\AoC 2020\AoC2\obj\Debug\netcoreapp3.1\AoC2.genruntimeconfig.cache

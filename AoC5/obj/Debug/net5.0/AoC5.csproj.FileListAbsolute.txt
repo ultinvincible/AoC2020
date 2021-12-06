@@ -1,0 +1,16 @@
+C:\Code\C#\AoC 2020\AoC5\bin\Debug\net5.0\AoC5.exe
+C:\Code\C#\AoC 2020\AoC5\bin\Debug\net5.0\AoC5.deps.json
+C:\Code\C#\AoC 2020\AoC5\bin\Debug\net5.0\AoC5.runtimeconfig.json
+C:\Code\C#\AoC 2020\AoC5\bin\Debug\net5.0\AoC5.runtimeconfig.dev.json
+C:\Code\C#\AoC 2020\AoC5\bin\Debug\net5.0\AoC5.dll
+C:\Code\C#\AoC 2020\AoC5\bin\Debug\net5.0\ref\AoC5.dll
+C:\Code\C#\AoC 2020\AoC5\bin\Debug\net5.0\AoC5.pdb
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\AoC5.csprojAssemblyReference.cache
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\AoC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\AoC5.AssemblyInfoInputs.cache
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\AoC5.AssemblyInfo.cs
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\AoC5.csproj.CoreCompileInputs.cache
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\AoC5.dll
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\ref\AoC5.dll
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\AoC5.pdb
+C:\Code\C#\AoC 2020\AoC5\obj\Debug\net5.0\AoC5.genruntimeconfig.cache
